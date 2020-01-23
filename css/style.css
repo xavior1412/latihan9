@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('../img/galaxy.jpg');
+  background-size: cover;
+}
+
+.jumbotron{
+  padding-bottom: 150px;
+  background-image: url('../img/gambar1.jpg');
+  background-repeat: no-repeat;
+  font-family: monospace;
+}
+
+.jumbotron2{
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.card{
+  background: transparent;
+}
+
+.jumbotron3{
+  background: transparent;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
